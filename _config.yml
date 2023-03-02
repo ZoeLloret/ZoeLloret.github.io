@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: LSCE - DoctoTuto
 
 # Your name to show in the footer
-author: Some Person
+author: Zoé Lloret
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://ZoeLloret.github.io"
 
 ################
 # --- Logo --- #
@@ -77,9 +77,6 @@ social-network-links:
 #  kaggle: yourname
 #  hackerrank: yourname
 
-# If you want your website to generate an RSS feed, provide a description
-# The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -88,8 +85,8 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
-  linkedin: true
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
