@@ -120,7 +120,7 @@ draw_vertical_seasons(INPUTDIR,OUTPUTDIR,list_aircrafts,'LMDZ','ICO')
 
 
     
-![png](output_5_1.png)
+![png](/assets/img/output_5_1.png)
     
 
 
